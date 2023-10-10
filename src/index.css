@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.Home{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+img{
+   width: 200px;
+   height: 200px;
+}
+.imagen{
+  width: 200px;
+  height: 200px;
+}
+.card{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 300px;
+  background-color:bisque;
+}
